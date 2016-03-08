@@ -1,0 +1,28 @@
+name: Radius
+favicon: null
+layout_spectrum: 0.6703658595215529
+typography_spectrum: 0.7935785027220845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9790067123249173
+  lightness: 0.5596328941173851
+  saturation: 0.41659348108805716
+  rhythmicContrast: 0.3260346862953156
+purpose: []
