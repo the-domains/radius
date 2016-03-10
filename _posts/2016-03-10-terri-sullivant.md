@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Terri Sullivant
-datePublished: '2016-03-10T21:30:02.591Z'
-dateModified: '2016-03-10T21:24:57.836Z'
+datePublished: '2016-03-10T21:31:44.183Z'
+dateModified: '2016-03-10T21:30:10.300Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-terri-sullivant.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-terri-sullivant.md
-published: true
 url: terri-sullivant/index.html
 _type: Article
 
