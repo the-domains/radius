@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:d6ceba7f-623d-4cb7-9b19-2d09412b5bcb'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-10T11:56:52.705Z'
+dateModified: '2016-03-10T11:53:36.566Z'
 author: []
-datePublished: '2016-03-10T11:49:22.868Z'
-publisher:
-  domain: ''
-  name: ''
-title: 'Nama with Connor James Hoskins Jan 25, 2016'
-dateModified: '2016-03-10T02:22:56.519Z'
+title: 'Bama with Connor James Hoskins Jan 25, 2016'
 sourcePath: _posts/2016-03-10-nama-with-connor-james-hoskins-jan-25-2016.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: nama-with-connor-james-hoskins-jan-25-2016/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Nama with Connor James Hoskins Jan 25, 2016
+# Bama with Connor James Hoskins Jan 25, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4c3ac7-d795-4b14-a82f-522380515711.png)
