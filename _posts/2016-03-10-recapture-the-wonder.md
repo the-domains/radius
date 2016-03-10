@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? (Romans 8:32 ESV)'
-datePublished: '2016-03-10T12:43:00.396Z'
-dateModified: '2016-03-10T12:15:35.568Z'
+datePublished: '2016-03-10T13:17:55.376Z'
+dateModified: '2016-03-10T13:17:44.462Z'
 title: Recapture the Wonder
 author: []
+sourcePath: _posts/2016-03-10-recapture-the-wonder.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-recapture-the-wonder.md
-published: true
 url: recapture-the-wonder/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e700402c-79b9-4b06-9182-bea17690c978.jpg)
+
+# 
+
 # Recapture the Wonder
 
 He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? (Romans 8:32 ESV)
