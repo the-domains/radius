@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9790067123249173
+  brandStrength: 0
   lightness: 0.5596328941173851
   saturation: 0.41659348108805716
-  rhythmicContrast: 0.3260346862953156
+  rhythmicContrast: 0.5
 purpose: []
