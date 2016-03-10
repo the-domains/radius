@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Terri Sullivant
-datePublished: '2016-03-10T23:52:09.849Z'
-dateModified: '2016-03-10T21:42:02.739Z'
+datePublished: '2016-03-10T23:56:32.842Z'
+dateModified: '2016-03-10T23:52:17.112Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-terri-sullivant.md
