@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Terri Sullivant
-datePublished: '2016-03-11T13:30:47.098Z'
-dateModified: '2016-03-11T13:30:26.477Z'
+description: ''
+datePublished: '2016-03-11T20:48:14.312Z'
+dateModified: '2016-03-11T13:30:51.857Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-terri-sullivant.md
@@ -22,4 +22,5 @@ url: terri-sullivant/index.html
 _type: Article
 
 ---
+## Terri Sullivant
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1b6916-ee40-443a-8545-d8c8a5d2cfec.jpg)
