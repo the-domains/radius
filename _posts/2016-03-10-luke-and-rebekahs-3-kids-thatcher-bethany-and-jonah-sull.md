@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Luke and Rebekah's 3 kids - Thatcher, Bethany and Jonah Sullivant - Our Nashville Crew"
-datePublished: '2016-03-11T13:31:50.336Z'
-dateModified: '2016-03-10T23:57:09.531Z'
+datePublished: '2016-03-11T20:45:49.891Z'
+dateModified: '2016-03-11T20:40:59.840Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-luke-and-rebekahs-3-kids-thatcher-bethany-and-jonah-sull.md
