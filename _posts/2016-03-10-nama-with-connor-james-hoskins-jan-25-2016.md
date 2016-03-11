@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T21:33:39.412Z'
-dateModified: '2016-03-10T21:33:22.845Z'
+datePublished: '2016-03-11T20:43:03.148Z'
+dateModified: '2016-03-10T21:33:48.104Z'
 author: []
 title: 'Bama with Connor James Hoskins January 25, 2016'
 sourcePath: _posts/2016-03-10-nama-with-connor-james-hoskins-jan-25-2016.md
