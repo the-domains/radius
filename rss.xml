@@ -4,8 +4,15 @@
         <description><![CDATA[Radius]]></description>
         <link>https://thegrid.ai/radius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 20:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 20:55:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/radius/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Recapture the Wonder]]></title>
+            <description><![CDATA[<article><h1>Recapture the Wonder</h1><p>He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? (Romans 8:32 ESV) A whole bloc of theological teaching through the centuries has basically promoted something quite contrary to the above revolutionary verse. This popular thinking basically leaves us with this powerful impression: "Because the Father sent Jesus to die on the cross to forgive us for our sins and take us to heaven if and/or when we die, we really don't need anything else...nor should we rightly expect anything else...from Him." Have you ever gotten this impression in the past as I have?</p></article>]]></description>
+            <link>https://thegrid.ai/radius/recapture-the-wonder/index.html</link>
+            <guid isPermaLink="false">48c82dbe-6ca7-4f4c-8c40-e0e7a1ee272d</guid>
+            <pubDate>Fri, 11 Mar 2016 20:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Sullivant]]></title>
             <description><![CDATA[<article><h1>Michael Sullivant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e638b872b58d1715012e6c39e25dd0d41adb50ef.png"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/radius/terri-sullivant/index.html</link>
             <guid isPermaLink="false">0ba717c2-83df-471f-b947-020cf0234266</guid>
             <pubDate>Fri, 11 Mar 2016 20:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recapture the Wonder]]></title>
-            <description><![CDATA[<article><h1></h1><p>He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? (Romans 8:32 ESV)</p></article>]]></description>
-            <link>https://thegrid.ai/radius/recapture-the-wonder/index.html</link>
-            <guid isPermaLink="false">48c82dbe-6ca7-4f4c-8c40-e0e7a1ee272d</guid>
-            <pubDate>Thu, 10 Mar 2016 13:17:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
