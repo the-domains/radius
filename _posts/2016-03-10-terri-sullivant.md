@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-11T20:48:14.312Z'
-dateModified: '2016-03-11T13:30:51.857Z'
+datePublished: '2016-03-11T23:46:42.439Z'
+dateModified: '2016-03-11T20:48:22.310Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-terri-sullivant.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: terri-sullivant/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Terri Sullivant
