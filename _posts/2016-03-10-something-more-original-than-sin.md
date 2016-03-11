@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Evangelical believers are famous for seeking to share our faith in Jesus by leading with the message that \"our sins have separated us from God.\" There are certainly some passages in the Bible that, as isolated verses, make such a case from a certain angle. The ironic problem is that most believers, after coming to faith and connecting with God more personally, begin to see very clearly how God was working in their lives before they came to \"saving\" faith. Indeed, the fact that God was always \"nearby us\" and exercising His grace toward us are keys to properly understanding our life story and bringing healing to our broken hearts. Immanuel has always been nearby us - oftentimes offering us help in ways we didn't necessarily perceive and sometimes intervening to protect and preserve us. As Paul informed the philosophers of Athens -"
-datePublished: '2016-03-10T13:24:32.979Z'
-dateModified: '2016-03-10T13:24:22.695Z'
+datePublished: '2016-03-11T23:54:12.630Z'
+dateModified: '2016-03-10T21:25:16.441Z'
 title: 'Something More Original Than Sin!'
 author: []
 sourcePath: _posts/2016-03-10-something-more-original-than-sin.md
@@ -22,7 +22,7 @@ url: something-more-original-than-sin/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3351d39a-2d40-48e9-b909-644c8c91b455.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/766b2b01d20bb00f2d39b363e07665b35cd4b71c.png)
 
 Evangelical believers are famous for seeking to share our faith in Jesus by leading with the message that "our sins have separated us from God." There are certainly some passages in the Bible that, as isolated verses, make such a case from a certain angle. The ironic problem is that most believers, after coming to faith and connecting with God more personally, begin to see very clearly how God was working in their lives before they came to "saving" faith. Indeed, the fact that God was always "nearby us" and exercising His grace toward us are keys to properly understanding our life story and bringing healing to our broken hearts. Immanuel has always been nearby us - oftentimes offering us help in ways we didn't necessarily perceive and sometimes intervening to protect and preserve us. As Paul informed the philosophers of Athens -
 
