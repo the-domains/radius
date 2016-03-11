@@ -4,7 +4,7 @@
         <description><![CDATA[Radius]]></description>
         <link>https://thegrid.ai/radius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 20:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 23:47:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/radius/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Recapture the Wonder]]></title>
@@ -61,13 +61,6 @@
             <link>urn:uuid:ccf63cc9-c594-4f6a-9d35-45a236a37c5d</link>
             <guid isPermaLink="false">00b4cf4e-5937-4996-9a8b-da3c925a0eb7</guid>
             <pubDate>Fri, 11 Mar 2016 20:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terri Sullivant]]></title>
-            <description><![CDATA[<article><h1>Terri Sullivant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66ad8f277cd74852ea5f0292035fa5d92f741cb9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/radius/terri-sullivant/index.html</link>
-            <guid isPermaLink="false">0ba717c2-83df-471f-b947-020cf0234266</guid>
-            <pubDate>Fri, 11 Mar 2016 20:48:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
