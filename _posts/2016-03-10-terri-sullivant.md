@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T22:34:49.957Z'
-dateModified: '2016-04-22T22:25:21.454Z'
+datePublished: '2016-04-22T22:39:26.506Z'
+dateModified: '2016-04-22T22:34:55.849Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-terri-sullivant.md
@@ -22,4 +22,4 @@ starred: false
 _type: Blurb
 
 ---
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1b6916-ee40-443a-8545-d8c8a5d2cfec.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1b6916-ee40-443a-8545-d8c8a5d2cfec.jpg)
