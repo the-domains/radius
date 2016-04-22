@@ -1,40 +1,40 @@
-name: Radius
-favicon: null
-layout_spectrum: 0.5119474
-typography_spectrum: 0.7935785027220845
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.5119474
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.75
+  brandStrength: 0
+  rhythmicContrast: 0.6839904
   brandColors:
     - '#ddc4ae'
     - '#fefefe'
     - '#050209'
     - '#763521'
     - '#af6f54'
-  brandStrength: 0
   lightness: 0.2287933
-  saturation: 0.75
-  rhythmicContrast: 0.6839904
 purpose: []
+favicon: null
+name: Radius
+typography_spectrum: 0.7935785027220845
