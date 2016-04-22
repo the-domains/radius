@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T22:24:43.706Z'
-dateModified: '2016-04-22T22:24:19.258Z'
-title: ' '
+datePublished: '2016-04-22T22:34:49.957Z'
+dateModified: '2016-04-22T22:25:21.454Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-10-terri-sullivant.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
