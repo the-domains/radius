@@ -4,7 +4,7 @@
         <description><![CDATA[Radius]]></description>
         <link>https://thegrid.ai/radius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 19:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 19:06:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/radius/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Michael Sullivant Pastor, Author, Speaker, Radius Director]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:52391570-8766-4b4e-9459-1bd8feb8a5ab</link>
             <guid isPermaLink="false">01151202-1e9d-49e1-9647-b77a34a75a2a</guid>
             <pubDate>Fri, 11 Mar 2016 20:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bama with Connor James Hoskins January 25, 2016]]></title>
+            <description><![CDATA[<article><h1>Bama with Connor James Hoskins January 25, 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ddac6835b80c24120d7d9d858b16e4ea7cbad97.png"></article>]]></description>
+            <link>urn:uuid:d6ceba7f-623d-4cb7-9b19-2d09412b5bcb</link>
+            <guid isPermaLink="false">1d92f15f-a721-42c5-8ee6-0bfd2631b4ad</guid>
+            <pubDate>Fri, 11 Mar 2016 20:43:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
