@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Radius]]></title>
-        <description><![CDATA[Radius]]></description>
+        <title><![CDATA[Radius - The Ministry of Terri and Michael Sullivant]]></title>
+        <description><![CDATA[Radius - The Ministry of Terri and Michael Sullivant]]></description>
         <link>https://thegrid.ai/radius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 20:21:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/radius/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Something More Original Than Sin!]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/radius/michaels-blog-recapture-the-wonder/index.html</link>
             <guid isPermaLink="false">48c82dbe-6ca7-4f4c-8c40-e0e7a1ee272d</guid>
             <pubDate>Fri, 22 Apr 2016 19:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immanuel Life Podcast - Homespun spiritual life!]]></title>
+            <description><![CDATA[<p>Immanuel Life Podcast 1 - Homespun Spiritual Life </p>]]></description>
+            <link>https://thegrid.ai/radius/immanuel-life-podcast-homespun-spiritual-life/index.html</link>
+            <guid isPermaLink="false">ec2fd6b6-383e-43d1-b36d-969d744002c8</guid>
+            <pubDate>Fri, 13 May 2016 20:20:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
