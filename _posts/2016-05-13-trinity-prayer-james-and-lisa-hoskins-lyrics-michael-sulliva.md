@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/msullivant/trinity-prayer-james-lisa-hoski
 inLanguage: null
 keywords: []
 description: This is the recording of the Trinity Prayer Song that James and Lisa Hoskins (my daughter) presented to me as a Christmas present in 2010. It is based on a prayer that I turned into song lyrics a few years ago. Feel free to pass it on.
-datePublished: '2016-05-13T21:12:37.865Z'
-dateModified: '2016-05-13T21:12:05.023Z'
+datePublished: '2016-05-13T22:52:38.105Z'
+dateModified: '2016-05-13T22:52:29.997Z'
 author:
   - name: msullivant
     url: 'http://soundcloud.com/msullivant'
@@ -51,6 +51,7 @@ app_links:
     namespace: google
     type: ios
 title: 'Trinity Prayer: James & Lisa Hoskins Lyrics: Michael Sullivant by msullivant'
+sourcePath: _posts/2016-05-13-trinity-prayer-james-and-lisa-hoskins-lyrics-michael-sulliva.md
 authors: []
 publisher:
   name: SoundCloud
@@ -58,7 +59,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-05-13-trinity-prayer-james-and-lisa-hoskins-lyrics-michael-sulliva.md
 _type: AudioObject
 _context: 'http://schema.org'
 
